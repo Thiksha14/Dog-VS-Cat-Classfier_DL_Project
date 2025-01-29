@@ -1,5 +1,9 @@
 # Dog vs Cat Classifier - Deep Learning Project  
 
+
+![image](https://github.com/user-attachments/assets/2df027ae-f9f9-43c9-85ac-0d8a5416d623)
+
+
 ## **Project Overview**  
 This project focuses on building a **deep learning model** to classify images of **dogs and cats** using **TensorFlow** and **Keras**. We use **CNNs (Convolutional Neural Networks)** to achieve high accuracy in distinguishing between the two categories.  
 
